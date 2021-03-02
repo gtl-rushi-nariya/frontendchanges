@@ -1,0 +1,72 @@
+#bred {
+    margin-top: 80px;
+  }
+  
+  @media only screen and (max-width: 270px) {
+    #bred {
+    margin-top: 120px;
+  }
+  }
+
+.breedingStatic{
+  overflow: hidden;
+}
+
+.about-text{
+  margin-top: 70px;
+  margin-left: 50px;
+  margin-bottom: 90px;
+  font-size:1.5rem;
+  
+}
+.imageBreeding{
+  width: 100%;
+  max-width: 1200px;
+  height: auto;
+  box-shadow: 0 10px 15px #ccc;
+  
+  
+}
+.breedingStatic .content h2 {
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 60px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    
+  }
+  
+  .breedingStatic .content h3 {
+    font-weight: 500;
+    line-height: 32px;
+    font-size: 24px;
+    
+  }
+  
+  #ulModify  {
+    list-style: none;
+    padding: 0;
+    text-align:left;
+    overflow: hidden;
+  }
+  
+  #ulModify li {
+    padding: 10px 0 0 28px;
+    position: relative;
+  }
+  
+  #ulModify i {
+    left: 0;
+    top: 7px;
+    position: absolute;
+    font-size: 20px;
+    color: #1bbd36;
+
+  }
+
+  
+  .breedingStatic .content p:last-child {
+    margin-bottom: 0;
+    
+  }
+  
